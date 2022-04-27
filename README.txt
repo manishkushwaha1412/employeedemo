@@ -1,5 +1,4 @@
-I tried developing APIs as mentioned in the email. 
-
+Please details below for the problem statements 
 
 Database –
 I have used in memory DB i.e. H2 database and configuration is available in application.properties file. Once server is started DB URL can be find in as below 
